@@ -1,18 +1,21 @@
 {
   "artigos": [
     {
+      "id": 1,
       "titulo": "Novas Abordagens na Educação",
       "imagem": "/imagens/educacao.jpeg",
       "categoria": "educação",
       "corCategoria": "#24538B"
     },
     {
+      "id": 2,
       "titulo": "Impacto da Tecnologia na Economia",
       "imagem": "/imagens/dinheiro.jpeg",
       "categoria": "economia",
       "corCategoria": "#FF2D2D"
     },
     {
+      "id": 3,
       "titulo": "Inclusão de Minorias no Mercado de Trabalho",
       "imagem": "/imagens/diversidade.jpeg",
       "categoria": "diversidades",
@@ -20,6 +23,7 @@
       
     },
     {
+      "id": 4,
       "titulo": "Desafios da Educação Online",
       "imagem": "/imagens/educacao.jpeg",
       "categoria": "educação",

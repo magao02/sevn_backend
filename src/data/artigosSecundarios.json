@@ -1,66 +1,82 @@
 {
   "noticias": [
     {
+      "id": 5,
       "titulo": "Novas Abordagens na Educação",
       "corCategoria": "#24538B"
     },
     {
+      "id": 6,
       "titulo": "Impacto da Tecnologia na Economia",
       "corCategoria": "#FF2D2D"
     },
     {
+      "id": 7,
       "titulo": "Inclusão de Minorias no Mercado de Trabalho",
       "corCategoria": "#248B28"
     },
     {
+      "id": 8,
       "titulo": "Desafios da Educação Online",
       "corCategoria": "#24538B"
     },
     {
+      "id": 9,
       "titulo": "A Importância da Alfabetização Financeira",
       "corCategoria": "#24538B"
     },
     {
+      "id": 10,
       "titulo": "Tendências Econômicas Globais",
       "corCategoria": "#FF2D2D"
     },
     {
+      "id": 11,
       "titulo": "Desafios da Inclusão Social",
       "corCategoria": "#248B28"
     },
     {
+      "id": 12,
       "titulo": "Inovações no Ensino à Distância",
       "corCategoria": "#24538B"
     },
     {
+      "id": 13,
       "titulo": "O Papel das Startups na Economia",
       "corCategoria": "#FF2D2D"
     },
     {
+      "id": 14,
       "titulo": "Promovendo a Diversidade Cultural",
       "corCategoria": "#248B28"
     },
     {
+      "id": 15,
       "titulo": "Avaliação da Qualidade da Educação",
       "corCategoria": "#24538B"
     },
     {
+      "id": 16,
       "titulo": "Estratégias de Investimento no Mercado Financeiro",
       "corCategoria": "#FF2D2D"
     },
     {
+      "id": 17,
       "titulo": "Respeito à Identidade de Gênero",
       "corCategoria": "#248B28"
     },
     {
+      "id": 18,
       "titulo": "Desafios da Educação Inclusiva",
       "corCategoria": "#24538B"
     },
     {
+      "id": 19,
       "titulo": "Impacto da Globalização na Economia Local",
       "corCategoria": "#FF2D2D"
     },
     {
+      "id": 20,
       "titulo": "Celebrando a Diversidade Cultural nas Empresas",
       "corCategoria": "#248B28"
     }
