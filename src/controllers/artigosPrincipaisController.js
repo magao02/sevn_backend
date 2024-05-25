@@ -2,7 +2,7 @@ exports.getArtigosPrincipais = async function (req, res) {
 
   try {
 
-    const data = require('../data/artigosPrincipaisData');
+    const data = require('../data/artigosPrincipais.json');
 
     if (data.error) {
         return res.status(500).json({ message: "Erro ao carregar artigos principais.", details: data.error });
