@@ -3,7 +3,7 @@
     {
       "id": 1,
       "titulo": "Novas Abordagens na Educação",
-      "imagem": "/imagens/educacao.jpeg",
+      "imagem": "/imagens/aula.jpeg",
       "categoria": "educação",
       "corCategoria": "#24538B"
     },
@@ -13,21 +13,7 @@
       "imagem": "/imagens/dinheiro.jpeg",
       "categoria": "economia",
       "corCategoria": "#FF2D2D"
-    },
-    {
-      "id": 3,
-      "titulo": "Inclusão de Minorias no Mercado de Trabalho",
-      "imagem": "/imagens/diversidade.jpeg",
-      "categoria": "diversidades",
-      "corCategoria": "#248B28"
-      
-    },
-    {
-      "id": 4,
-      "titulo": "Desafios da Educação Online",
-      "imagem": "/imagens/educacao.jpeg",
-      "categoria": "educação",
-      "corCategoria": "#24538B"
     }
+
   ]
 }
