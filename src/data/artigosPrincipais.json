@@ -13,6 +13,13 @@
       "imagem": "/imagens/dinheiro.jpeg",
       "categoria": "economia",
       "corCategoria": "#FF2D2D"
+    },
+    {
+      "id": 20,
+      "titulo": "Celebrando a Diversidade Cultural",
+      "imagem": "/imagens/diversidade.jpg",
+      "categoria": "diversidades",
+      "corCategoria": "#248B28"
     }
 
   ]
